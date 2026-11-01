@@ -1,1 +1,0 @@
-Meine Uebung mit VS Code
